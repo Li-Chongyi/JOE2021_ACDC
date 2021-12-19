@@ -9,7 +9,7 @@ MATLAB
 ## Testing
 1. Clone the repo
 2. Put testing images into test folder
-3. run demo.m
+3. Run demo.m
 6. Find the result in test folder
 
 ##  License
