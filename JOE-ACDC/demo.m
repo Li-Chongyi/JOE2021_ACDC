@@ -1,7 +1,7 @@
 clc
 clear 
 close all
-addpath('Method');
+addpath('utilities');
 
 images_dir='test';
 listing = cat(1, dir(fullfile(images_dir, '*.png')));
