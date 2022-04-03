@@ -19,14 +19,14 @@ The code is made available for academic research purpose only.
 
 ```
 @inproceedings{ACDC,
- author = {Zhang, Weidong and Li, Chongyi and Wang, Yudong},
+ author = {Zhang, Weidong and Wang, Yudong  and Li, Chongyi},
  title = {Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement},
  booktitle = {IEEE Journal of Oceanic Engineering},
  pages    = {},
  month = {},
- year = {2021}
+ year = {2022}
  doi={}
 }
 ```
 
-(Full paper:  )
+(Full paper:  https://ieeexplore.ieee.org/abstract/document/9744022)
